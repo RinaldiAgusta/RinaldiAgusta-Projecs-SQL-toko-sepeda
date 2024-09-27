@@ -1,19 +1,23 @@
-# Proyek SQL menggunakan data toko sepeda
+## Deskripsi Proyek
+Proyek ini bertujuan untuk menganalisis data penjualan dari toko sepeda menggunakan dashboard interaktif. Dengan memvisualisasikan data penjualan, kami dapat mengidentifikasi tren, pola musiman, dan produk terlaris untuk meningkatkan strategi pemasaran dan stok produk.
 
-## Gambaran Umum:
+## Tujuan
+Mengidentifikasi tren penjualan bulanan dan tahunan.
+- Menganalisis produk dengan penjualan tertinggi dan terendah.
+- Memahami demografi pelanggan berdasarkan lokasi dan preferensi produk.
+- Memberikan rekomendasi berdasarkan data untuk meningkatkan penjualan.
+ 
 
-* Menggunakan basis data Bikestores, saya mengeksplorasi cara menampilkan informasi penting secara grafis.
-* Faktor utamanya adalah penjualan/pendapatan, produksi, pelanggan, dan staf.
-* Dengan menggunakan analisis, kita bisa mendapatkan wawasan tentang jenis perubahan apa yang diperlukan untuk meningkatkan pendapatan dan/atau meningkatkan penjualan.
-* Kami menggunakan server SQL dan Power BI untuk proyek ini.
+## Teknologi dan Alat yang Digunakan
 
-## Tujuan:
+Bahasa Pemrograman: Sql
+Database: Microsoft Sql Server
+Visualisasi: Power BI 
 
-* Berapakah penjualan/pendapatan dari waktu ke waktu
-* Berapakah penjualan/pendapatan per kategori
-* Berapakah 10 produk teratas
-* Berapakah 10 pelanggan teratas
-* MenampilkanFilter berdasarkan tahun dan bulan
+## Data Source
+Kaggle
 
-## Preview:
-![WhatsApp Image 2024-09-15 at 00 13 13](https://github.com/user-attachments/assets/dba697b1-b58c-452d-aaf8-0c8dfde326c0)
+## Proses dan Metodologi
+1. Pengumpulan dan pembersihan data.
+2. Analisis eksploratif untuk menemukan pola dan tren.
+3. Pembuatan visualisasi data menggunakan dashboard interaktif.
